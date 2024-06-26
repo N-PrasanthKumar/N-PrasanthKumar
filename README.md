@@ -1,5 +1,11 @@
-## Hi there 👋
 
+# Hi, I'm Devi Pavan! 👋
+
+![My Stats](https://github-readme-stats.vercel.app/api?username=N-PrasanthKumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&custom_title_color=FF5733)
+
+### My GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=N-PrasanthKumar&theme=vue-dark&hide_border=true)
 <!--
 **N-PrasanthKumar/N-PrasanthKumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
