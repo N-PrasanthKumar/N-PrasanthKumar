@@ -1,5 +1,5 @@
 
-# Hi, I'm Devi Pavan! 👋
+# Hi, I'm N Prasanth Kumar ! 👋
 
 ![My Stats](https://github-readme-stats.vercel.app/api?username=N-PrasanthKumar&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&custom_title_color=FF5733)
 
